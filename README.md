@@ -34,7 +34,7 @@ Local organizations of all types serve as productive centers for cultural and ec
 - Organizations with an active status with the Washington Secretary of State, located in South Whidbey, with an active website.
 - Organizations with a non-local headquarters which have at least one full time employee in South Whidbey who primarily serve the South Whidbey area.
 - Individuals doing business in their own name, who live in South Whidbey, and have an active website.
-- All have been contacted by South Whidbey Online, A Social Purpose Corporation, to be made aware of this initiative to 'make our online community, our own.' All have been given the opportunity to utilize our directory at https://southwhidbey.online and/or to opt-out. Feedback from the community is available as appendix Figure 1.
+- All have been contacted by South Whidbey Online, A Social Purpose Corporation, to be made aware of this initiative to 'make our online community, our own.' All have been given the opportunity to utilize our directory at https://southwhidbey.online and/or to opt-out. Feedback from the community is available as appendix Figure 2.
 - All are verified to be included in Google's network (and can be found when the exact business name and/or exact business name in combination with the city and state of their headquarters is searched.)
 - Many sources were used to arrive at the reference data. A summary of the top 20 sources is available in appendix Figure 2.
 
