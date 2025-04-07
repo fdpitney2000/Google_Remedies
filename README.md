@@ -1,5 +1,5 @@
 # Internet Search Remedies For Reuniting Local Communities
-# An Open Letter to the Honorable District Judge Amit P. Mehta in the v. Google LLC 
+# An Open Letter to the Honorable District Judge Amit P. Mehta in the United States v. Google LLC 
 
 We propose industry-wide remedies which more closely resemble the equal-access principles which regulated AT&T and the regional bell companies. Today the commodity to be regulated is the inclusion or exclusion of a given individual or organization in search results, especially at the regional, local level. For instance, there is only one correct answer to the question "what plumbers are near me?" Yet Google, under the status quo, is hiding most local plumbers and instead showing the results of the highest bidders, which are mostly non-local plumbers and agencies which have invested heavily in search engine optimization. Google has not always presented data this way and there are simple changes which can restore the Internet, and Google's original mission, of making data more universally accessible and useful.
 
